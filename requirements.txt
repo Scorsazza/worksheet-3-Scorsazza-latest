@@ -1,0 +1,4 @@
+pyfmodex @ git+https://github.com/tyrylu/pyfmodex.git
+PyTMX~=3.31
+pyasge~=2.0.0a2
+pyfmodex~=0.7.0
